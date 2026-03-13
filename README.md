@@ -19,4 +19,4 @@
 
 
 ## Certification
-![SC101](./certificate/SC101.jpg)
+![SC101](stanCode_project/certificate/SC101.jpg)
