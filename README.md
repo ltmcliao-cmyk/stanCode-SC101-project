@@ -4,4 +4,5 @@
 |:---:|:---:|:---:|:---:|
 |Breakout Game|
 |Generative Art|
-||
+|People Eraser|
+|Name Trends|
